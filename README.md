@@ -1,4 +1,8 @@
 # vue
+This is a [Laravel](https://laravel.com/) starter app that connects to a Railway Postgres database.
+
+[![Deploy on Railway Test](https://railway.app/button.svg)](https://railway.app/new/template/fWEWWf)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
